@@ -8,4 +8,4 @@
 
 >git pull [to take changes from remote respository to local workspace]
 
->git push [to sent changes from ]
+>git push [to sent changes from local respository to remove repository]
