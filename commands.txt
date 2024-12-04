@@ -1,0 +1,11 @@
+>git init[to initialize git]
+
+>git status [to list all untracked files]
+
+>git add-A[ to adding all untacked files to staging area]
+ 
+ >git commit-m"commit message" [to commit added file to local repository]
+
+>git pull [to take changes from remote respository to local workspace]
+
+>git push [to sent changes from ]
